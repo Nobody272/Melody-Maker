@@ -1,3 +1,4 @@
+![Melody Maker](https://github.com/Nobody272/Melody-Maker/assets/115402136/e300b425-d0e5-402f-83b9-ddf609a4c0c3)
 # Melody Maker LUA Script for RDR2
 
 ## Description
