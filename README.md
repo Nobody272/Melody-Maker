@@ -40,7 +40,7 @@ To install the Melody Maker LUA Script, follow the steps below:
 
 1. Navigate to the [releases tab](https://github.com/Nobody272/Melody-Maker/releases) of this GitHub repository.
 2. Download the latest version of the LUA script file.
-3. Locate the Fortitude installation directory on your system, which is generally found at the following path: ~\Documents\Fortitude\Red Dead Redemption 2\LUA
+3. Locate the Fortitude installation directory on your system, which is generally found at the following path: \Documents\Fortitude\Red Dead Redemption 2\LUA
 4. Copy the downloaded LUA script file into the aforementioned directory.
 5. Launch RDR2 through Fortitude and enjoy the new features brought to you by Melody Maker.
 
