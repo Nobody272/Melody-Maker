@@ -74,18 +74,3 @@ If you encounter any issues or require assistance with the Melody Maker LUA Scri
 - **GitHub Issues:** Alternatively, you can [open an issue](https://github.com/Nobody272/Melody-Maker/issues) right here on GitHub, and I'll respond as soon as I can.
 
 I appreciate your interest in Melody Maker, and I'm here to help with any information or support you may need.
-
-## Changelog
-
-### Network
-- **Tweaked Unleash Hell**
-- **Added Oppenheimer**
-
-### Advanced Recovery System
-- **Added Money Chest**
-
-### Misc
-- **Added Drive to Waypoint**
-- **Added Taxi**
-- **Added Auto Drive Instructions**
-
