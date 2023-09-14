@@ -87,5 +87,5 @@ Always download the file tagged as "latest." Generally, this will be the `Melody
 If you experience crashes, it's likely because you downloaded a broken, outdated version from the Fortitude website. Please make sure to download the script from our official [GitHub page](https://github.com/Nobody272/Melody-Maker) to avoid this issue.
 
 **4. I have more questions or encountered a bug, how can I reach out?**
-Don't hesitate to message @Nobody directly in the [Fortitude Discord server](https://discord.gg/fortitudemod) or open an [issue on GitHub](https://github.com/Nobody272/Melody-Maker/issues). We appreciate your feedback and are here to help with any issues you encounter.
+Don't hesitate to message `nobody_272` directly in the [Fortitude Discord server](https://discord.gg/fortitudemod) or open an [issue on GitHub](https://github.com/Nobody272/Melody-Maker/issues). We appreciate your feedback and are here to help with any issues you encounter.
 
