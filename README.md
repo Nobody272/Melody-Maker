@@ -74,3 +74,18 @@ If you encounter any issues or require assistance with the Melody Maker LUA Scri
 - **GitHub Issues:** Alternatively, you can [open an issue](https://github.com/Nobody272/Melody-Maker/issues) right here on GitHub, and I'll respond as soon as I can.
 
 I appreciate your interest in Melody Maker, and I'm here to help with any information or support you may need.
+
+## Frequently Asked Questions (FAQ)
+
+**1. Where should I download the script from?**
+For the most stable and latest version of the script, always download it from our [GitHub repository](https://github.com/Nobody272/Melody-Maker). We don't recommend downloading from the Fortitude website as it has issues causing crashes for a majority of users.
+
+**2. Which file should I download on the GitHub page?**
+Always download the file tagged as "latest." Generally, this will be the `Melody_Maker.luac` file, found in the "encrypted version." You can see an example in this image: (attach an image of where to find the latest version)
+
+**3. I downloaded the script but my game crashes. What should I do?**
+If you experience crashes, it's likely because you downloaded a broken, outdated version from the Fortitude website. Please make sure to download the script from our official [GitHub page](https://github.com/Nobody272/Melody-Maker) to avoid this issue.
+
+**4. I have more questions or encountered a bug, how can I reach out?**
+Don't hesitate to message @Nobody directly in the [Fortitude Discord server](https://discord.gg/fortitudemod) or open an [issue on GitHub](https://github.com/Nobody272/Melody-Maker/issues). We appreciate your feedback and are here to help with any issues you encounter.
+
