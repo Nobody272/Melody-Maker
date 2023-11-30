@@ -3,36 +3,17 @@
 
 ## Description
 
-Melody Maker is a comprehensive script that enhances the Fortitude experience in RDR2, offering a variety of features ranging from scenarios to an advanced recovery system. Developed with the community in mind, it aims to elevate your gaming experience to new heights.
+Melody Maker is a dedicated Lua script for Red Dead Redemption 2, focused on enhancing the musical and scenario interaction within the game. This script is a part of the Fortitude mod, made to provide an immersive experience in scenario management and usability.
 
 ## Features
 
-### Scenarios
-- **Male Scenarios**
-- **Female Scenarios**
+- **Scenarios**
+  - **Male Scenarios**
+  - **Female Scenarios**
+  - **Spawner Scenarios**
 
-### Advanced Recovery System
-- **Large and Small Infinite Spawning**
-- **Sedated**
-- **Dead**
-
-### Gold Chest
-- **Spawn up to 100 Gold**
-
-### Money Chest
-- **Spawner**
-
-### Network
-- **Oppenheimer**
-- **Unleash Hell**
-
-### Misc
-- **Drive to Waypoint**
-- **Taxi**
-- **Auto Drive Instructions**
-
-### Robot
-- **Spawn a Robot to play Music for you.**
+- **Positioning and Movement**
+  - Customizable position adjustment features to fine-tune character placement for the best photos.
 
 ## Installation
 
@@ -41,17 +22,10 @@ To install the Melody Maker LUA Script, follow the steps below:
 1. Navigate to the [releases tab](https://github.com/Nobody272/Melody-Maker/releases) of this GitHub repository.
 2. Download the latest version of the LUA script file.
 3. Locate the Fortitude installation directory on your system, which is generally found at the following path: \Documents\Fortitude\Red Dead Redemption 2\LUA
-4. Copy the downloaded LUA script file into the aforementioned directory.
+4. Copy the downloaded LUA script file into the directory.
 5. Launch RDR2 through Fortitude and enjoy the new features brought to you by Melody Maker.
 
 For any assistance or queries, feel free to reach out through the issues tab on this GitHub repository.
-
-## Credits
-
-- **BravoSix**: Assisted with getting PTFX to work and helped create a cage that can hold modders.
-- **_m.a.n.o._**: Provided an exploit to trap players and assets for PTFX.
-- **qsilence**: Supplied the code for the Chest Recovery System.
-- **Koldo**: A huge help with AutoDrive.
 
 ## Contributing
 
@@ -81,11 +55,8 @@ I appreciate your interest in Melody Maker, and I'm here to help with any inform
 For the most stable and latest version of the script, always download it from our [GitHub repository](https://github.com/Nobody272/Melody-Maker). We don't recommend downloading from the Fortitude website as it has issues causing crashes for a majority of users.
 
 **2. Which file should I download on the GitHub page?**
-Always download the file tagged as "latest." Generally, this will be the `Melody_Maker.luac` file, found in the "encrypted version."
+Always download the file tagged as "latest." Generally, this will be the `Melody_Maker.lua` file, found in the [releases tab](https://github.com/Nobody272/Melody-Maker/releases).
 
-**3. I downloaded the script but my game crashes. What should I do?**
-If you experience crashes, it's likely because you downloaded a broken, outdated version from the Fortitude website. Please make sure to download the script from our official [GitHub page](https://github.com/Nobody272/Melody-Maker) to avoid this issue.
-
-**4. I have more questions or encountered a bug, how can I reach out?**
-Don't hesitate to message `nobody_272` directly in the [Fortitude Discord server](https://discord.gg/fortitudemod) or open an [issue on GitHub](https://github.com/Nobody272/Melody-Maker/issues). We appreciate your feedback and are here to help with any issues you encounter.
+**3. I have more questions or encountered a bug, how can I reach out?**
+Don't hesitate to message `nobody_272` directly or in the [Fortitude Discord server](https://discord.gg/fortitudemod) or open an [issue on GitHub](https://github.com/Nobody272/Melody-Maker/issues). We appreciate your feedback and are here to help with any issues you encounter.
 
