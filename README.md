@@ -1,4 +1,4 @@
-![Melody Maker]([https://github.com/Nobody272/Melody-Maker/assets/115402136/e300b425-d0e5-402f-83b9-ddf609a4c0c3](https://cdn.discordapp.com/attachments/1073664984875270165/1179688304967434270/Melody-Maker.jpg?ex=657ab159&is=65683c59&hm=ad0650bb2b0062a7c9d3121af260cc7be2c42f302586d67e60d1c7de7754498e&))
+![Melody Maker](https://cdn.discordapp.com/attachments/1073664984875270165/1179688304967434270/Melody-Maker.jpg?ex=657ab159&is=65683c59&hm=ad0650bb2b0062a7c9d3121af260cc7be2c42f302586d67e60d1c7de7754498e&)
 # Melody Maker LUA Script for RDR2
 
 ## Description
