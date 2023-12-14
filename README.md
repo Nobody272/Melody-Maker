@@ -11,6 +11,9 @@ Melody Maker is a dedicated Lua script for Red Dead Redemption 2, focused on enh
   - **Male Scenarios**
   - **Female Scenarios**
   - **Spawner Scenarios**
+  - **Walking Scenarios**
+
+- **Gift Music Maker**
 
 - **Positioning and Movement**
   - Customizable position adjustment features to fine-tune character placement for the best photos.
